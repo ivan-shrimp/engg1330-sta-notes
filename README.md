@@ -1,2 +1,7 @@
-# engg1330-sta-notes
-A student TA's improvised materials used to teach Python. (ENGG1330, 2024-2025 Sem 1, HKU)
+# ENGG1330 Notes
+
+Q&A materials created in ENGG1330 tutorials at HKU. Students were asked to describe and explain the output of these code snippets.
+
+## License
+
+These Jupyter notebook (`.ipynb`) files are under [CC0-1.0](LICENSE).
